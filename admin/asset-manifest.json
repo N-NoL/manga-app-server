@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://manga-in.space/admin/static/css/main.5f361e03.chunk.css",
+    "main.js": "https://manga-in.space/admin/static/js/main.8d3b489b.chunk.js",
+    "main.js.map": "https://manga-in.space/admin/static/js/main.8d3b489b.chunk.js.map",
+    "runtime-main.js": "https://manga-in.space/admin/static/js/runtime-main.45f6103c.js",
+    "runtime-main.js.map": "https://manga-in.space/admin/static/js/runtime-main.45f6103c.js.map",
+    "static/js/2.6436f5e2.chunk.js": "https://manga-in.space/admin/static/js/2.6436f5e2.chunk.js",
+    "static/js/2.6436f5e2.chunk.js.map": "https://manga-in.space/admin/static/js/2.6436f5e2.chunk.js.map",
+    "index.html": "https://manga-in.space/admin/index.html",
+    "precache-manifest.0123abb8905acd343113f68eef4bad91.js": "https://manga-in.space/admin/precache-manifest.0123abb8905acd343113f68eef4bad91.js",
+    "service-worker.js": "https://manga-in.space/admin/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "https://manga-in.space/admin/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.6436f5e2.chunk.js.LICENSE.txt": "https://manga-in.space/admin/static/js/2.6436f5e2.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "https://manga-in.space/admin/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.45f6103c.js",
+    "static/js/2.6436f5e2.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.8d3b489b.chunk.js"
+  ]
+}

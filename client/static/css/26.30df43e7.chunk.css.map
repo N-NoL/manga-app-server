@@ -1,0 +1,1 @@
+{"version":3,"sources":["MangaReadPage.css"],"names":[],"mappings":"AAAA,gBACI,kBAA2B,CAC3B,gBAAiB,CACjB,UACJ","file":"26.30df43e7.chunk.css","sourcesContent":[".read_page_root{\r\n    background: rgb(33, 33, 33);\r\n    min-height: 100vh;\r\n    color: #fff;\r\n}"]}
