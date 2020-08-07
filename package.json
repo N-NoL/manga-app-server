@@ -37,7 +37,7 @@
     "admin-bro-expressjs": "^2.0.5",
     "admin-bro-typeorm": "^0.1.5",
     "bcrypt": "^4.0.1",
-    "class-transformer": "^0.2.3",
+    "class-transformer": "^0.3.1",
     "class-validator": "^0.12.2",
     "cloudinary": "^1.21.0",
     "cookie-parser": "^1.4.5",
